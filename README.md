@@ -32,7 +32,7 @@ Welcome to the **Disappearing Text Writing App** repository! This desktop applic
 
 ## Screenshots
 
-./screenshots/Screenshot (13).png
+(./screenshots/Screenshot (13).png)
 
 ## Contributing
 
